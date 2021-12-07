@@ -3358,7 +3358,7 @@ __metadata:
     "@rollup/plugin-commonjs": 21.0.1
     "@rollup/plugin-json": 4.1.0
     "@rollup/plugin-node-resolve": 13.0.6
-    "@swc/helpers": 0.2.13
+    "@swc/helpers": 0.3.0
     "@testing-library/dom": 8.11.1
     "@testing-library/jest-dom": 5.15.1
     "@testing-library/react": 12.1.2
@@ -3533,7 +3533,7 @@ __metadata:
     "@rollup/plugin-commonjs": 21.0.1
     "@rollup/plugin-json": 4.1.0
     "@rollup/plugin-node-resolve": 13.0.6
-    "@swc/helpers": 0.2.13
+    "@swc/helpers": 0.3.0
     rimraf: 3.0.1
     rollup: 2.58.3
     rollup-plugin-sourcemaps: 0.6.3
@@ -3704,7 +3704,7 @@ __metadata:
     "@storybook/manager-webpack5": 6.4.4
     "@storybook/react": 6.4.4
     "@storybook/theming": 6.4.4
-    "@swc/helpers": 0.2.13
+    "@swc/helpers": 0.3.0
     "@testing-library/dom": 8.11.1
     "@testing-library/jest-dom": 5.15.1
     "@testing-library/react": 12.1.2
@@ -8136,10 +8136,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@swc/helpers@npm:0.2.13":
-  version: 0.2.13
-  resolution: "@swc/helpers@npm:0.2.13"
-  checksum: 712f15dfb42fa8bdca64fe3556001ac11c93e95b27ea0ea0c4c3f718b770d414b3a93bb9260ad68fbbcac624a834bf14c4a2261aeabf156917d532a3981bd378
+"@swc/helpers@npm:0.3.0":
+  version: 0.3.0
+  resolution: "@swc/helpers@npm:0.3.0"
+  checksum: c9c32be1d79b3fe0e6d8dbc0c530ca5373c4da135e009efb504cf9259ce11931e9a264f288402cd911f633b85378e06d2f8bb12b7ea9c31af420bd3585e022b8
   languageName: node
   linkType: hard
 
@@ -19088,7 +19088,7 @@ __metadata:
     "@sentry/types": 6.15.0
     "@sentry/utils": 6.15.0
     "@swc/core": 1.2.103
-    "@swc/helpers": 0.2.13
+    "@swc/helpers": 0.3.0
     "@testing-library/dom": 8.11.1
     "@testing-library/jest-dom": 5.15.1
     "@testing-library/react": 12.1.2
